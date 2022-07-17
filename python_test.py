@@ -1,6 +1,6 @@
 import pytest
 
-
+error
 @pytest.fixture(scope='module')
 def call_me_once_use_when_needed():
     print('\ncall me once use when needed')
