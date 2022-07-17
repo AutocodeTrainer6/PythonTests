@@ -25,3 +25,5 @@ def test_two(call_me_once_use_when_needed, call_me_every_time):
     print('test two')
     print('after chenge by Students6')
 
+def test_three_by_student6(call_me_once_use_when_needed, call_me_every_time):
+    print('test three by Student6')
